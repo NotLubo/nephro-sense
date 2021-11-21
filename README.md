@@ -12,3 +12,8 @@ Automated monitoring of urine output can be a huge timesaver for hospital staff 
 We’ve developed a fully functioning prototype, both on the hardware and software side which is sending data to an IoT cloud as well as into the InterSystems FHIR platform.
 Implementation into the ICUs could be done using any open system.
 Our cost for the prototype was 27EUR. If we would get our product to 25 % of all ICU beds in the Czech republic, then after the first year we could get profitability of 27 % with one device cost of 150 euro including staff, development, and certification costs.
+
+## Authors
+- Ľuboš Repka
+- Tom Kuna
+- Vasil Kostin
