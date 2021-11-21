@@ -1,3 +1,4 @@
+![alt text](https://github.com/NotLubo/nephro-sense/blob/master/repo-img/nephrosense.jpg?raw=true)
 # NephroSense
 ## Problem
 For now, unlike many other vital functions, urine output isn’t measured automatically. This costs hospital staff vital time and might result in mistakes and unnecessary approximations. The same goes for a manual checkup of infusion rate and fluids remaining. There's currently no widely used system for monitoring toe-to-room temperature gradient, even though it proved useful in clinical studies as a predictor of ICU mortality.
